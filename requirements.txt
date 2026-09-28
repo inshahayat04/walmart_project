@@ -1,3 +1,4 @@
 pandas
-pymysql
+numpy
+MySQL
 sqlalchemy
